@@ -36,7 +36,7 @@ class Zwierzatko {
 		
 	}
 	
-	public Zwierzatko (String gatunek)
+	public Zwierzatko (String gatunek);
 	public void wypiszInformacje() {
 		System.out.printf("Gatunek: %s\nWaga: %d\nWzrost: %.1f\nCzy to ssak: %b\nMasa: %d\n", gatunek, waga, 
 				wzrost,kolor , czySsak);
