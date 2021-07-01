@@ -8,27 +8,25 @@ package zadania.z.internetu.nr5;
 
 public class Main {
 	public static void main (String [] args) {
+
 		
-		int i = 0;
-		String[] tablica = new String[i];
+		//nie wiem jaką zrobić metodę żeby po dodaniu osoby zwiekszałą się liczba ktora odpowiada za ilosc dodanch imion. niby mozna z rozamaru tabeli ale nie o to chodzi
+	
+
 	}
-	public static String podajImie () {
+	public static int ileOsob(int i) {
+		return i++;
+	}
+	
+	public static String[] stworzTablice(int i) {
+		String[] tablica = new String[i];
+		return tablica;
+	}
+	
+	public static String podajImie(int i) {
+		i++;
 		Scanner scan = new Scanner(System.in);
 		String imie = scan.nextLine();
 		return imie;
-		
-	}
-	public static String[] stworzTablice(int i) {
-		
-		return 
-	}
-	public static void porownanie(String imie) {
-		tablica [] = stworzTablice(); 
-		for(int i = 0; i < tablica.lenght; i++) {
-			if(imie.equals(tablica[i])) 
-				System.out.println("Czesc " + imie);
-			else 
-				System.out.println("nie znam cie");
-		}
 	}
 }
