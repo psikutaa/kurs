@@ -5,7 +5,6 @@ public class Karta {
 	private FiguryKart figury;
 	
 	public Karta (KoloryKart kolory, FiguryKart figury) {
-		super();
 		this.kolory = kolory;
 		this.figury = figury;
 		
@@ -17,6 +16,11 @@ public class Karta {
 
 	public void setFigury(FiguryKart figury) {
 		this.figury = figury;
+	}
+
+	@Override
+	public String toString() {
+		return "Karta [kolory=" + kolory + ", figury=" + figury + "]";
 	}
 	
 	
