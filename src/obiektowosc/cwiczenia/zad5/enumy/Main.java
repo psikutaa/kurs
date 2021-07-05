@@ -7,7 +7,7 @@ public class Main {
 		
 		for (int i = 0; i < talia.length; i++) {
 			for (int j = 0; j < talia[i].length; j++) {
-				talia[i][j] = new Karta(getKolejnoscPoker , )
+				talia[i][j] = new Karta(null ,null );
 			}
 		}
 	}
