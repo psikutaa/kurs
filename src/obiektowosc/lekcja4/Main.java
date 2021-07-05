@@ -10,7 +10,7 @@ class Piesek {
 		this.numer = ++id_auto;
 	}
 }
-​
+
 class Schronisko{
 	
 	private static Schronisko schronisko;

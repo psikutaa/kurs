@@ -3,7 +3,7 @@ package ObiektowoscZajecia;
 
 import java.util.Random;
 
-​
+
 enum Rozmiar {
 	XXS(28, "ekstra małe"),
 	XS(30, "super małe"),

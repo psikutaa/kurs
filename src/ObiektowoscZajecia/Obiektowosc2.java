@@ -58,12 +58,12 @@ public class Main {
 
 		// zad 1 Napisz przyklad wykorzystania biznesowego static ?
 		// zad 2 Z wykorzystaniem static policz ile stowrzyles obiektów danej klasy
-​
+
 //		System.out.println(Osoba.iloscNog);
 //		Osoba o1 = new Osoba("Pawel", "Malinowski", true, 1946, true, 3000, 2, 0);
 //
 //		System.out.println(o1.czyJestEmerytem());
-​
+
 		
 		// zad 1 Stworz kalse przedsiebiorstwo z min 5 atrybutami 
 		// zad 2 stworz klase pracownik z min. 5 atrybutami

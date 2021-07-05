@@ -6,10 +6,10 @@ public enum Roslina {
 	
 	
 	
-	naslonecznienie (losujNawodnienie())
+	naslonecznienie (losujNawodnienie());
 
 	
-	public int losujNawodnienie ()
+	public int losujNawodnienie ();
 }
 
 
