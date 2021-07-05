@@ -178,8 +178,8 @@ while (true) {
 		System.out.println("Podaj 6 liczb z zakresu 1 - 49 : ");
 		for (int n = 0; n < 6; n++) {		
 			System.out.print((n + 1) + " liczba to: ");
-			Scanner scan = new Scanner(System.in) {
-			if (scan.nextInt() > 49) 
+			Scanner scan = new Scanner(System.in);
+			if (scan.nextInt() > 49)
 				System.out.println("błędny zakres, spróbuj ponownie");
 			}
 			tab [n] = scan.nextInt();

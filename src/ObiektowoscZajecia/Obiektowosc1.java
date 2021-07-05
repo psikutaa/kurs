@@ -175,9 +175,9 @@ class Zwierzatko {
 
 		return czyPoprawny;
 	}
-​
+
 }
-​
+
 // 1. Stworz klase zwierzatko, 
 // 2. daj mozliwosc tworzenia obiektow tej klasy na 4 rozne sposoby, przy czym realizacje przypisania wartosci do zmiennych 
 // klasy mozna realizowac tylko w jednym konstruktorze

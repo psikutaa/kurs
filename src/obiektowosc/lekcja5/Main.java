@@ -75,10 +75,10 @@ public class Main {
 //
 //		produktyCeny.add(4);
 
-		zad 1. Napisz z wykorzystaniem list menu produktow w sklepie 
-		oraz przypadek uzycia uzytkwonik przychodzi wybiera produkty i ilosci jest podsumownay i wyswieltana cena 
-		
-		zad 2 . To samo co pierwsze ale tylko Set
-		zad 3. To samo co pierwsze tylko Map
+//		zad 1. Napisz z wykorzystaniem list menu produktow w sklepie
+//		oraz przypadek uzycia uzytkwonik przychodzi wybiera produkty i ilosci jest podsumownay i wyswieltana cena
+//
+//		zad 2 . To samo co pierwsze ale tylko Set
+//		zad 3. To samo co pierwsze tylko Map
 	}
 }
