@@ -1,4 +1,4 @@
-package obiektowosc.cwiczenia.zad4.Enumy;
+package obiektowosc.cwiczenia.zad5.enumy;
 
 public enum FiguryKart {
 	_2 (2),

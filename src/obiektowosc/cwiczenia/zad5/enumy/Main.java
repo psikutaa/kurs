@@ -1,4 +1,4 @@
-package obiektowosc.cwiczenia.zad4.Enumy;
+package obiektowosc.cwiczenia.zad5.enumy;
 
 public class Main {
 	public static void main(String [] args) {
@@ -7,7 +7,7 @@ public class Main {
 		
 		for (int i = 0; i < talia.length; i++) {
 			for (int j = 0; j < talia[i].length; j++) {
-				talia[i][j] = new Karta(null, null)
+				talia[i][j] = new Karta(getKolejnoscPoker , )
 			}
 		}
 	}
